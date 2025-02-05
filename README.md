@@ -6,7 +6,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 💻 I use daily **.js**, **.Reactjs**, **.Nextjs**, **.C#** ,**.HTML**,  **.CSS** , **.TailwindCSS** 
+- 💻 I use daily **.js**, **.Reactjs**, **.Python**, **.Nextjs**, **.C#** ,**.HTML**,  **.CSS** , **.TailwindCSS** 
 - 📖 I am currently learning new technology
 
 
