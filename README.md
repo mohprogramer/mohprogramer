@@ -8,7 +8,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Front-end developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.Reactjs**, **.Nextjs**, **.HTML**,  **.CSS** , **.TailwindCSS** 
+- 💻 I use daily **.js**, **.Reactjs**, **.Nextjs**, **.C#** ,**.HTML**,  **.CSS** , **.TailwindCSS** 
 - 📖 I am currently learning new technology
 
 
